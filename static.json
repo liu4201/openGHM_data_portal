@@ -14,10 +14,10 @@
       },
       "globus": {
         "application": {
-          "client_id": "2da0c859-2dda-4ea1-a7d7-d1c9d422026b"
+          "client_id": "401eea7b-b30a-4a9e-80ee-6559c46b3d5a"
       },
         "transfer": {
-          "collection_id": "135b258a-5ad1-4df0-a0dc-d9f29c619f4b",
+          "collection_id": "426141e5-f3ce-42e0-b4e4-51db26b97633",
           "path": ""
         }
       }
